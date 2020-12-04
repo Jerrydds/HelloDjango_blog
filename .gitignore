@@ -5,6 +5,7 @@ report
 .pytest_cache
 .vscode
 _book
+_credentials.py
 
 # Unit test / coverage reports
 htmlcov/
