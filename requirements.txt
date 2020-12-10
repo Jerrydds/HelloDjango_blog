@@ -1,4 +1,5 @@
 fabric
+coverage
 django~=2.2
 markdown
 gunicorn
