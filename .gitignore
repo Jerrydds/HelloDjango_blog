@@ -110,11 +110,7 @@ _credentials.py
 
 # Pycharm .idea folder, see following link to know which files should be ignored:
 # https://www.jetbrains.com/help/pycharm/synchronizing-and-sharing-settings.html#7e81d3cb
-.idea/workspace.xml
-.idea/dataSources.*
-.idea/tasks.xml
-.idea/dictionaries/
-
+.idea/
 
 
 
